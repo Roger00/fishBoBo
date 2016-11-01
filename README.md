@@ -1,7 +1,5 @@
 # fishBoBo
 Aquarium automation scripts
 
+<img src="http://i.imgur.com/SlX0rql.png" width="350"/>
 
-<p align="center">
-  <img src="http://imgur.com/SlX0rql" width="350"/>
-</p>
